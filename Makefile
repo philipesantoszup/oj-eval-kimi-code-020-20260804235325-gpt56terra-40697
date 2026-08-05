@@ -1,4 +1,4 @@
-CC := gcc-13
+CC := gcc
 CFLAGS := -std=c11 -O2 -Wall -Wextra
 
 .PHONY: all clean
